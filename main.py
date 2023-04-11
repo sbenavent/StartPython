@@ -51,42 +51,61 @@ while True:
         break
     elif opcion == 1:
         ejercicio1()
+        input("Pulsa Enter para continuar.")
     elif opcion == 2:
-        ejercicio2()
+        ejercicio2("Pulsa Enter para continuar.")
+        input()
     elif opcion == 4:
-        ejercicio4()
+        ejercicio4("Pulsa Enter para continuar.")
+        input()
     elif opcion == 5:
-        ejercicio5()
+        ejercicio5("Pulsa Enter para continuar.")
+        input()
     elif opcion == 6:
-        ejercicio6()
+        ejercicio6("Pulsa Enter para continuar.")
+        input()
     elif opcion == 7:
-        ejercicio7()
+        ejercicio7("Pulsa Enter para continuar.")
+        input()
     elif opcion == 8:
-        ejercicio8()
+        ejercicio8("Pulsa Enter para continuar.")
+        input()
     elif opcion == 9:
-        ejercicio9()
+        ejercicio9("Pulsa Enter para continuar.")
+        input()
     elif opcion == 10:
-        ejercicio10()
+        ejercicio10("Pulsa Enter para continuar.")
+        input()
     elif opcion == 11:
-        ejercicio11()
+        ejercicio11("Pulsa Enter para continuar.")
+        input()
     elif opcion == 12:
-        ejercicio12()
+        ejercicio12("Pulsa Enter para continuar.")
+        input()
     elif opcion == 13:
-        ejercicio13()
+        ejercicio13("Pulsa Enter para continuar.")
+        input()
     elif opcion == 14:
-        ejercicio14()
+        ejercicio14("Pulsa Enter para continuar.")
+        input()
     elif opcion == 15:
-        ejercicio15()
+        ejercicio15("Pulsa Enter para continuar.")
+        input()
     elif opcion == 16:
-        ejercicio16()
+        ejercicio16("Pulsa Enter para continuar.")
+        input()
     elif opcion == 17:
-        ejercicio17()
+        ejercicio17("Pulsa Enter para continuar.")
+        input()
     elif opcion == 18:
-        ejercicio18()
+        ejercicio18("Pulsa Enter para continuar.")
+        input()
     elif opcion == 19:
-        ejercicio19()
+        ejercicio19("Pulsa Enter para continuar.")
+        input()
     elif opcion == 20:
-        ejercicio20()
+        ejercicio20("Pulsa Enter para continuar.")
+        input()
     
     
     
