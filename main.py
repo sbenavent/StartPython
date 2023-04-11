@@ -44,7 +44,10 @@ while True:
     print("20 - Determinar si un número es capicúa")
     
     print("Introduzca el número del algoritmo que quiere usar o introduzca 0 para cerrar el programa")
-    opcion = int(input())
+    try:
+        opcion = int(input())
+    except Exception:
+        print("No ha seleccionado un ejercicio válido")
 
     if opcion == 0: 
         input("Gracias por usar el programa. Pulse ENTER para salir.")
