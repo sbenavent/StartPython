@@ -55,5 +55,41 @@ while True:
         ejercicio2()
     elif opcion == 4:
         ejercicio4()
+    elif opcion == 5:
+        ejercicio5()
+    elif opcion == 6:
+        ejercicio6()
+    elif opcion == 7:
+        ejercicio7()
+    elif opcion == 8:
+        ejercicio8()
+    elif opcion == 9:
+        ejercicio9()
+    elif opcion == 10:
+        ejercicio10()
+    elif opcion == 11:
+        ejercicio11()
+    elif opcion == 12:
+        ejercicio12()
+    elif opcion == 13:
+        ejercicio13()
+    elif opcion == 14:
+        ejercicio14()
+    elif opcion == 15:
+        ejercicio15()
+    elif opcion == 16:
+        ejercicio16()
+    elif opcion == 17:
+        ejercicio17()
+    elif opcion == 18:
+        ejercicio18()
+    elif opcion == 19:
+        ejercicio19()
+    elif opcion == 20:
+        ejercicio20()
+    
+    
+    
+
     
 
