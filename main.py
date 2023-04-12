@@ -43,9 +43,8 @@ while True:
     print("19 - Eliminar números duplicados")
     print("20 - Determinar si un número es capicúa")
     
-    print("Introduzca el número del algoritmo que quiere usar o introduzca 0 para cerrar el programa")
     try:
-        opcion = int(input())
+        opcion = int(input("Introduzca el número del algoritmo que quiere usar o introduzca 0 para cerrar el programa: "))
     except Exception:
         print("No ha seleccionado un ejercicio válido")
 
