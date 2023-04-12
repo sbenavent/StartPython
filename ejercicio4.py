@@ -4,6 +4,10 @@ def areaPerimetro(radio):
     perimetro = round(pow(radio,2)*pi,4) 
     return area, perimetro
 def ejercicio4():
-    numero = float(input("Introduzca el radio del círculo: "))
-    area , perimetro = areaPerimetro(numero)
-    print(f"El área del círculo es {area} y el perímetro el círculo es {perimetro}")
+    try:
+        numero = float(input("Introduzca el radio del círculo: "))
+    except Exception as e:
+        print(f"Se ha producido el error: \n{e} \nPorque el número introducido es inválido")
+    else: 
+        area , perimetro = areaPerimetro(numero)
+        print(f"El área del círculo es {area} y el perímetro del círculo es {perimetro}")
