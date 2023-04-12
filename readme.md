@@ -28,7 +28,7 @@
 - Instrucciones de ejecución
   - `py main.py`
 
-### Alumnos:
+### Colaboradores:
 
 - Pablo Vergel 
 - Montserrat Cabrera
