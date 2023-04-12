@@ -90,6 +90,8 @@ while True:
         ejercicio19() 
     elif opcion == 20:
         ejercicio20()
+    else:
+        "No ha seleccionado un número correcto"
     input("Pulsa Enter para continuar.")    
     
     
