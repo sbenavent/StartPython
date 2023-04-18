@@ -11,3 +11,5 @@ def ejercicio4():
     else: 
         area , perimetro = areaPerimetro(numero)
         print(f"El área del círculo es {area} y el perímetro del círculo es {perimetro}")
+if __name__ == "__main__":
+    ejercicio4()

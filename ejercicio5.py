@@ -12,3 +12,5 @@ def ejercicio5():
         menorNumero = listaOrdenada[0]
         mayorNumero = listaOrdenada[-1]
         print(f"El menor y el mayor elemento de la lista introducida son {menorNumero} y {mayorNumero}, respectivamente")
+if __name__ == "__main__":
+    ejercicio5()

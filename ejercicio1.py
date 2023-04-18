@@ -17,4 +17,5 @@ def ejercicio1():
     DNI = input("Introduzca los números del DNI: ")
     letra = verificacion_DNI(DNI)
     print(letra)
-            
+if __name__ == "__main__":
+    ejercicio1() 

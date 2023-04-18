@@ -6,3 +6,5 @@ def ejercicio6():
     else:
         gradosFahrenheit = round(gradosCelsius*1.8 + 32,4)
         print(f"{gradosCelsius} grados Celsius son {gradosFahrenheit} grados Fahrenheit")
+if __name__ == "__main__":
+    ejercicio6()

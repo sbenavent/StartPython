@@ -8,3 +8,5 @@ def ejercicio7():
             print(f"El número introducido, es decir el {numero}, es par")
         else:
             print(f"El número introducido, es decir el {numero}, es impar")
+if __name__ == "__main__":
+    ejercicio7()
